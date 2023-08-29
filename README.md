@@ -1,5 +1,6 @@
 # DeHashed-Search-Tool
 
+Designed for OSINT
 An efficient command-line tool that interfaces with the DeHashed API to allow for robust and easy searching of various criteria.
 
 ## Features
